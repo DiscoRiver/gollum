@@ -1,7 +1,7 @@
 # Gollum
 Columnised menu output for text/tabwriter.
 
-##Example:
+## Example:
 
 ```
 package main
@@ -25,7 +25,7 @@ func main() {
 }
 ```
 
-##Output:
+## Output:
 
 ```
 this     is    a      columnised   
