@@ -1,3 +1,9 @@
+# Gollum
+Columnised menu output for text/tabwriter.
+
+##Example:
+
+```
 package main
 
 import (
@@ -17,3 +23,13 @@ func main() {
 	// Write the buffer
 	w.Flush()
 }
+```
+
+##Output:
+
+```
+this     is    a      columnised   
+output   for   user   reference    
+```
+
+
